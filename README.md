@@ -158,10 +158,9 @@ class _CounterPageState extends State<CounterPage> {
 3. **Reusable Widgets**: Creating reusable widgets reduces redundancy in the **Widget Tree** and makes the **Element Tree** more efficient by minimizing unnecessary re-creations.
 
 ## References and Useful Links
-1. [Flutter Documentation - Widget Tree](https://flutter.dev/docs/development/ui/widgets-intro)
-2. [Flutter: Understanding the Render Tree](https://medium.com/flutter-community/understanding-the-render-tree-7c5e0b90239a)
-3. [Flutter: Element Tree Explained](https://medium.com/flutter/inside-flutter-the-element-tree-5bceb30eeff5)
-
+1. [https://www.linkedin.com/pulse/understanding-flutters-widget-element-render-tree-vitalii-vyrodov-jvy2f/] (https://www.linkedin.com/pulse/understanding-flutters-widget-element-render-tree-vitalii-vyrodov-jvy2f/)
+2. [Flutter Documentation - Widget Tree](https://flutter.dev/docs/development/ui/widgets-intro)
+3. [The Flutter Forest — Demystifying Flutter trees](https://medium.com/globant/the-flutter-forest-demystifying-flutter-trees-a5ebb4db4efe)
 ---
 ## ⭐️
 
